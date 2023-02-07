@@ -16,7 +16,7 @@ class BillingCycle extends Component {
                     <Tabs>
                         <TabsHeader>
                             <TabHeader label='Listar' icon='bars' target='tabList'/>
-                            <TabHeader label='Icluir' icon='plus' target='tabCreate'/>
+                            <TabHeader label='Incluir' icon='plus' target='tabCreate'/>
                             <TabHeader label='Alterar' icon='pencil' target='tabUpdate'/>
                             <TabHeader label='Excluir' icon='trash-o' target='tabDelete'/>
                         </TabsHeader>
